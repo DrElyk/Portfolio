@@ -1,0 +1,71 @@
+* 
+{
+  margin: .3%;
+  padding: .3%;
+  font-family: Roboto, "Arial Black", sans-serif;
+  color: white;
+  line-height: 100%;
+}
+html
+{
+  background-color: #2d333d;
+}
+h1
+{
+  font-family: Roboto, "Arial Black", sans-serif;
+  font-size: 350%;
+  color: White;
+  line-height: 50%;
+  font-weight: bold;
+  display: block;
+  margin: auto;
+  width: 90%;
+  padding: 50px;
+  padding-bottom: 20px;
+}
+h3
+{
+	display: block;
+	margin-left: 1%
+}
+h4
+{
+  padding-top: 1%;
+  padding-bottom: 0%;
+}
+p
+{
+  padding-bottom: 0%;
+}
+li
+{
+  padding-top: 0%;
+  padding-bottom: 0%;
+	margin-left: 1%;
+}
+#header
+{
+	background-color: #616060;
+	margin: auto;
+}
+#title-pic
+{
+	float: left;
+	display: block;
+	margin: auto;
+}
+#title-pic img
+{
+	margin-left: 50%;
+	margin-top: 70%;
+}
+#resume
+{
+  margin-right: 10%;
+}
+.boxes
+{
+    width: 13%;
+    height: 13%;
+    display: inline-block;
+}
