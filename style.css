@@ -14,7 +14,6 @@ h1
 {
   font-family: Roboto, "Arial Black", sans-serif;
   font-size: 350%;
-  color: White;
   line-height: 50%;
   font-weight: bold;
   display: block;
@@ -66,12 +65,80 @@ li
 	margin-left: 30px;
 	margin-top: 33px;
 }
-#resume
+#body
 {
+  display: block;
+  float: left; 
+  margin: auto;
+  margin-top: 10px;
   margin-right: 10%;
+  background-color: #D0D0D0;
+  border: 5px solid black;
+}
+#body p, h4, li
+{
+  color: black;
+}
+.box-container
+{
+  position: fixed;
+  bottom: 0;
+  width: 97%;
 }
 .boxes
 {
-    width: 250px;
-    display: inline-block;
+  margin: auto;
+  display: inline-block;
+  width: 100px;
+}
+.boxes p
+{
+  position: absolute;
+  top: 50px;
+  background-color: #D0D0D0;
+}
+.project
+{
+  width: 55%;
+  height: 550px;
+  margin: auto;
+  margin-top: 5%;
+  border: 5px solid black;
+  border-radius: 1%;
+  background: #33604d;
+  display: block;
+  float: left;
+}
+.project h3, p
+{
+  color: black;
+}
+.proj-head
+{
+  text-align: center;
+}
+.proj-left
+{ 
+  margin: auto;
+  margin-right: 80px;
+  text-align: left;
+  float: left;
+  display: inline-block;
+  width: 25%;
+}
+.proj-right
+{ 
+  margin: auto;
+  text-align: left;
+  float: left;
+  display: inline-block;
+  margin-left: 40px;
+}
+.proj-right p, li
+{
+  color: black;
+}
+#space-shooter img
+{
+  margin-left: 90px;
 }
