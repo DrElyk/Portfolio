@@ -119,26 +119,22 @@ li
 }
 .proj-left
 { 
-  margin: auto;
-  margin-right: 80px;
+  margin-left: 50px;
+  margin-right: 20px;
   text-align: left;
   float: left;
   display: inline-block;
-  width: 25%;
 }
 .proj-right
 { 
-  margin: auto;
   text-align: left;
-  float: right;
   display: inline-block;
-  margin-left: 40px;
 }
 .proj-right p, li
 {
   color: black;
 }
-#space-shooter img
+#space-golf
 {
-  margin-left: 90px;
+  height: 400px;
 }
