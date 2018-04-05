@@ -107,9 +107,8 @@ li
 {
   width: 99%;
   margin: auto;
-  margin-top: 5%;
+  margin-top: 10px;
   border: 5px solid black;
-  border-radius: 1%;
   background: #D0D0D0;
   display: block;
   float: left;
@@ -138,13 +137,16 @@ li
 }
 .proj-desc
 { 
-  margin-left: 5px;
   text-align: left;
   display: block;
 }
 .proj-desc p, li
 {
   color: black;
+}
+.proj-desc li
+{
+  margin-left: 25px;
 }
 #space-golf
 {
