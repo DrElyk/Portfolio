@@ -9,6 +9,7 @@
 }
 .project h3, p {
   color: black;
+  padding-bottom: 0%;
 }
 .proj-head {
   text-align: left;
@@ -35,7 +36,7 @@
   color: black;
 }
 .proj-desc li {
-  margin-left: 25px;
+  margin-left: 35px;
 }
 #space-golf {
   margin-bottom: 140px;
