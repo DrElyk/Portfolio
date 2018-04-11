@@ -1,0 +1,42 @@
+.project {
+  width: 99%;
+  margin: auto;
+  margin-top: 10px;
+  border: 5px solid black;
+  background: #F1EFEF;
+  display: block;
+  float: left;
+}
+.project h3, p {
+  color: black;
+}
+.proj-head {
+  text-align: left;
+}
+.proj-imgs { 
+  margin-right: 10px;
+  text-align: left;
+  display: inline-block;
+}
+#space-golf .proj-imgs {
+  width: 800px;
+}
+#space-shooter .proj-imgs {
+  width: 450px;
+}
+#homepage .proj-imgs {
+  width: 900px;
+}
+.proj-desc { 
+  text-align: left;
+  display: block;
+}
+.proj-desc p, li {
+  color: black;
+}
+.proj-desc li {
+  margin-left: 25px;
+}
+#space-golf {
+  margin-bottom: 140px;
+}

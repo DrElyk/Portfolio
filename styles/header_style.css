@@ -1,0 +1,44 @@
+#header {
+	background-color: #2587E3;
+	background-color: #E37B2D;
+	background-color: #1E8E5D;
+	border: 5px solid black;
+	margin: auto;
+}
+#header button {
+  margin-left: 25px;
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+#header h3 {
+  margin-left: 25px;
+  color: white;
+}
+#title-pic {
+	float: left;
+	display: block;
+	margin: auto;
+}
+#title-pic img {
+	margin-left: 30px;
+	margin-top: 33px;
+}
+
+.footer-container {
+  position: fixed;
+  bottom: 0;
+  width: 97%;
+}
+.footer {
+  margin: auto;
+  display: inline-block;
+  width: 100px;
+}
+.footer p {
+  position: absolute;
+  top: 43px;
+  width: 300px;
+  line-height: 120%;
+  background-color: #F1EFEF;
+}
