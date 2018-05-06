@@ -23,7 +23,7 @@
   width: 800px;
 }
 #space-shooter .proj-imgs {
-  width: 450px;
+  width: 650px;
 }
 #homepage .proj-imgs {
   width: 900px;
@@ -38,6 +38,9 @@
 .proj-desc li {
   margin-left: 35px;
 }
-#space-golf {
+.proj-desc a {
+  color: blue;
+}
+#space-golf, #panera {
   margin-bottom: 140px;
 }

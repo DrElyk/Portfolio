@@ -3,7 +3,7 @@
   padding: .3%;
   font-family: Roboto, "Arial Black", sans-serif;
   color: black;
-  line-height: 100%;
+  line-height: 110%;
 }
 html {
   background-color: #2d333d;
@@ -37,7 +37,7 @@ li {
   padding-bottom: 0%;
 	margin-left: 35px;
 }
-#body {
+.body {
   display: block;
   float: left; 
   margin: auto;
@@ -45,6 +45,11 @@ li {
   background-color: #F1EFEF;
   border: 5px solid black;
 }
-#body p, h4, li {
+.body p, h4, li {
   color: black;
+}
+.body a {
+  margin-left: 0px;
+  padding-left: 0px;
+  color: blue;
 }
