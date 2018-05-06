@@ -44,6 +44,7 @@ li {
   margin-top: 10px;
   background-color: #F1EFEF;
   border: 5px solid black;
+  margin-bottom: 140px; 
 }
 .body p, h4, li {
   color: black;
