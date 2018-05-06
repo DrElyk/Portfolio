@@ -37,6 +37,9 @@ li {
   padding-bottom: 0%;
 	margin-left: 35px;
 }
+a {
+  color: blue;
+}
 .body {
   display: block;
   float: left; 
@@ -52,5 +55,4 @@ li {
 .body a {
   margin-left: 0px;
   padding-left: 0px;
-  color: blue;
 }

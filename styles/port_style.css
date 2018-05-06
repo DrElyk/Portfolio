@@ -11,14 +11,6 @@
   color: black;
   padding-bottom: 0%;
 }
-.proj-head {
-  text-align: left;
-}
-.proj-imgs { 
-  margin-right: 10px;
-  text-align: left;
-  display: inline-block;
-}
 #space-golf .proj-imgs {
   width: 800px;
 }
@@ -27,19 +19,6 @@
 }
 #homepage .proj-imgs {
   width: 900px;
-}
-.proj-desc { 
-  text-align: left;
-  display: block;
-}
-.proj-desc p, li {
-  color: black;
-}
-.proj-desc li {
-  margin-left: 35px;
-}
-.proj-desc a {
-  color: blue;
 }
 #space-golf, #panera {
   margin-bottom: 140px;
