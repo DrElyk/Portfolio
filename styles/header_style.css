@@ -14,24 +14,40 @@
   margin-left: 25px;
   color: white;
 }
-#title-pic {
-	float: left;
-	display: block;
-	margin: auto;
+.header-title {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding-top:0;
+  margin-top:0;
+  padding-bottom:0;
+  margin-bottom:0;
 }
-#title-pic img {
-	margin-left: 30px;
-	margin-top: 33px;
+.header-title img {
+  display: inline-block;
+  vertical-align: bottom; 
+}
+.header-title h1 {
+  display: inline-block;
+  height: 90px;
+  line-height: 120px;
+}
+.buttons {
+  display: block;
+  margin-left: 35%;
+  margin-right: 25%;
+  width: 40%;
+  padding: 0;
 }
 .footer-container {
   position: fixed;
   bottom: 0;
-  width: 97%;
+  right: 0;
 }
 .footer {
   margin: auto;
   display: inline-block;
-  width: 100px;
+  width: 80px;
 }
 .footer p {
   position: absolute;

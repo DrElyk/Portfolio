@@ -5,7 +5,9 @@
   border: 5px solid black;
   background: #F1EFEF;
   display: block;
-  float: left;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 .project h3, p {
   color: black;
