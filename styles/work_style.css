@@ -4,3 +4,13 @@ h3 {
 #doom {
 	margin-bottom: 140px;
 }
+
+#doom .proj-imgs {
+	margin: auto;
+	width: 475px;
+}
+
+#siemens .proj-imgs {
+	margin: auto;
+	width: 555px;
+}

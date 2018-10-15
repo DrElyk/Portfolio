@@ -14,14 +14,22 @@
   padding-bottom: 0%;
 }
 #space-golf .proj-imgs {
-  width: 800px;
+  margin: auto;
+  width: 330px;
 }
 #space-shooter .proj-imgs {
-  width: 650px;
+  margin: auto;
+  width: 425px;
 }
 #homepage .proj-imgs {
-  width: 900px;
+  margin: auto;
+  width: 420px;
 }
+#musicalarm .proj-imgs {
+  margin: auto;
+  width: 390px;
+}
+
 #space-golf {
   margin-bottom: 140px;
 }
