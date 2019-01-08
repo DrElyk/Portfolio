@@ -7,10 +7,15 @@ h3 {
 
 #doom .proj-imgs {
 	margin: auto;
-	width: 475px;
+	width: 450px;
 }
 
 #siemens .proj-imgs {
 	margin: auto;
 	width: 555px;
+}
+
+#deloitte .proj-imgs {
+	margin: auto;
+	width: 410px;
 }
