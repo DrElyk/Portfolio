@@ -1,6 +1,5 @@
 <h1>Kyle Capehart</h1>
 
-<a href="https://drelyk.github.io/">https://drelyk.github.io/</a><br/>
 
 <p>
   This is a static HTML Portfolio. It includes a link to my Resume, a Project list (with links), a summary of work experience, and a briefing of my academic career.
